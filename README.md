@@ -8,7 +8,7 @@ Basé à **Montpellier**, je suis actuellement en 1ère année de Master Informa
 
 ### 🚀 À propos de moi
 
-- 🎓 **Études :** BUT Informatique à l'IUT de Montpellier-Sète (2021-2025).
+- 🎓 **Études :** Master ILSEN (Ingénierie du Logiciel de la Société Numérique) au CERI d'Avignon (2025-2027).
 - 💼 **Poste :** Alternant DevOps chez CA-GIP (Crédit Agricole Group Infrastructure Platform)
 - 🌱 **J'apprends :** Toujours en veille sur les architectures modernes et les bonnes pratiques (Qualité de code, Agile, ITIL).
 - 💬 **Langues :** Français (Natif), Anglais (B1).
