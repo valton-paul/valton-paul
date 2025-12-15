@@ -1,5 +1,3 @@
-# Salut, je suis Paul Valton ! 👋
-
 ## 👨‍💻 Développeur Full Stack | Étudiant en Master Informatique
 
 Basé à **Montpellier**, je suis actuellement en 1ère année de Master Informatique (ILSEN) à Avignon. Passionné par le développement applicatif et l'architecture logicielle, j'aime relever de nouveaux défis et concevoir des solutions innovantes.
