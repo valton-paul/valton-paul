@@ -1,17 +1,16 @@
 # Salut, je suis Paul Valton ! 👋
 
-## 👨‍💻 Développeur Full Stack | Étudiant en BUT Informatique
+## 👨‍💻 Développeur Full Stack | Étudiant en Master Informatique
 
-Basé à **Montpellier**, je suis actuellement en 3ᵉ année de BUT Informatique (Spécialité RACDV). Passionné par le développement applicatif et l'architecture logicielle, j'aime relever de nouveaux défis et concevoir des solutions innovantes.
+Basé à **Montpellier**, je suis actuellement en 1ère année de Master Informatique (ILSEN) à Avignon. Passionné par le développement applicatif et l'architecture logicielle, j'aime relever de nouveaux défis et concevoir des solutions innovantes.
 
 ---
 
 ### 🚀 À propos de moi
 
 - 🎓 **Études :** BUT Informatique à l'IUT de Montpellier-Sète (2021-2025).
-- 💼 **Expériences :** - Stage Développeur Full-Stack chez **Crédit Agricole (CA-GIP)** (Kubernetes, Automatisation).
-  - Stage Conception de processus chez **Nexecur**.
-- 🌱 **J'apprends :** Toujours en veille sur les architectures modernes et les bonnes pratiques (Qualité de code, Agile).
+- 💼 **Expériences :** Alternant DevOps chez CA-GIP (Crédit Agricole Group Infrastructure Platform)
+- 🌱 **J'apprends :** Toujours en veille sur les architectures modernes et les bonnes pratiques (Qualité de code, Agile, ITIL).
 - 💬 **Langues :** Français (Natif), Anglais (B1).
 
 ---
