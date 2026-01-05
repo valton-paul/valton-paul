@@ -1,25 +1,25 @@
-## Développeur Full Stack | Alternant DevOps @ Crédit Agricole GIP
+## Full Stack Developer | DevOps Apprentice @ Crédit Agricole GIP
 
-Basé à **Montpellier**, je suis actuellement en 1ère année de Master Informatique (ILSEN) au CERI d'Avignon. Passionné par l'architecture logicielle et l'automatisation, j'allie rigueur académique et expérience concrète en milieu bancaire.
+Based in **Montpellier, France**, I am currently a 1st-year Master's student in Computer Science (Software Engineering) at Avignon University. Passionate about software architecture and automation, I combine academic rigor with hands-on experience in the banking sector.
 
 ---
 
-### À propos de moi
+### About Me
 
-- **Études :** Master ILSEN (Ingénierie du Logiciel) - Avignon (2025-2027).
-- **Poste actuel :** Alternant DevOps chez **CA-GIP** (Crédit Agricole Group Infrastructure Platform).
-- **Focus :** Automatisation CI/CD, Qualité logicielle, Gestion de services IT, SEO et GEO
-- **Langues :** Français (Natif), Anglais (B1 - Technique).
+- **Education:** Master’s Degree in Software Engineering (ILSEN) - Avignon (2025-2027).
+- **Current Role:** DevOps Apprentice at **CA-GIP** (Crédit Agricole Group Infrastructure Platform).
+- **Focus Areas:** CI/CD Automation, Software Quality, IT Service Management (ITSM), SEO, and GEO.
+- **Languages:** French (Native), English (B1 - Technical).
 
 ---
 
 ### Certifications
 
-- **ITIL® 4 Foundation** : Gestion des services IT et alignement métier **(En cours)**.
+- **ITIL® 4 Foundation**: IT service management and business alignment **(In progress)**.
 
 ---
 
-### Mes Compétences Techniques
+### Technical Skills
 
 #### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,24 +40,25 @@ Basé à **Montpellier**, je suis actuellement en 1ère année de Master Informa
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-#### Stratégie & Visibilité (Search & AI)
+#### Strategy & Visibility (Search & AI)
 ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white)
 ![GEO](https://img.shields.io/badge/GEO-5865F2?style=for-the-badge&logo=perplexity&logoColor=white)
----
-
-### Méthodologies & Soft Skills
-
-- **Process :** ITIL, Méthodes Agiles (Scrum/Kanban).
-- **Qualité :** Clean Code, Tests unitaires, CI/CD.
-- **Savoir-être :** Adaptabilité en environnement grand compte, Autonomie, Esprit d'analyse.
 
 ---
 
-### Me Contacter
+### Methodologies & Soft Skills
+
+- **Processes:** ITIL, Agile Methodologies (Scrum/Kanban).
+- **Quality:** Clean Code, Unit Testing, CI/CD pipelines.
+- **Interpersonal:** Adaptability in corporate environments, Autonomy, Analytical mindset.
+
+---
+
+### Get in Touch
 
 <p align="left">
   <a href="https://mypaulfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Mon_Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/paul-valton-5617a3230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -70,5 +71,5 @@ Basé à **Montpellier**, je suis actuellement en 1ère année de Master Informa
 ---
 
 <p align="center">
-  <i>"Curieux et déterminé, j’allie le développement applicatif aux enjeux de l'infrastructure moderne."</i>
+  <i>"Driven and curious, I bridge the gap between application development and modern infrastructure challenges."</i>
 </p>
