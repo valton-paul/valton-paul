@@ -8,7 +8,7 @@ Basé à **Montpellier**, je suis actuellement en 1ère année de Master Informa
 
 - **Études :** Master ILSEN (Ingénierie du Logiciel) - Avignon (2025-2027).
 - **Poste actuel :** Alternant DevOps chez **CA-GIP** (Crédit Agricole Group Infrastructure Platform).
-- **Focus :** Automatisation CI/CD, Qualité logicielle et Gestion de services IT.
+- **Focus :** Automatisation CI/CD, Qualité logicielle, Gestion de services IT, SEO et GEO
 - **Langues :** Français (Natif), Anglais (B1 - Technique).
 
 ---
