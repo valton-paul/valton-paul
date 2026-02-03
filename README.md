@@ -6,7 +6,7 @@ Based in **Montpellier, France**, I am currently a 1st-year Master's student in 
 
 ### About Me
 
-- **Education:** Master’s Degree in Software Engineering (ILSEN) - Avignon (2025-2027).
+- **Education:** Master’s degree in Computer Science (Software Engineering) - Avignon (2025-2027).
 - **Current Role:** DevOps Apprentice at **CA-GIP** (Crédit Agricole Group Infrastructure Platform).
 - **Focus Areas:** CI/CD Automation, Software Quality, IT Service Management (ITSM), SEO, and GEO.
 - **Languages:** French (Native), English (B1 - Technical).
@@ -68,7 +68,3 @@ Based in **Montpellier, France**, I am currently a 1st-year Master's student in 
 </p>
 
 ---
-
-<p align="center">
-  <i>"Driven and curious, I bridge the gap between application development and modern infrastructure challenges."</i>
-</p>
