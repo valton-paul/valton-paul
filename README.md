@@ -1,4 +1,4 @@
-## Full Stack Developer | DevOps Apprentice @ Crédit Agricole GIP
+## Software Developer | DevOps Engineer Apprentice @ Crédit Agricole GIP
 
 Based in **Montpellier, France**, I am currently a 2nd-year Master's student in Computer Science (Software Engineering) at Avignon University. Passionate about software architecture and automation, I combine academic rigor with hands-on experience in the banking sector.
 
