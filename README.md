@@ -65,9 +65,9 @@ Based in **Montpellier, France**, I am currently a 2nd-year Master's student in 
 
 ### Methodologies & Soft Skills
 
-- **Processes:** ITIL, Agile Methodologies (Scrum/Kanban).
+- **Processes:** Agile Methodologies (Scrum/Kanban).
 - **Quality:** Clean Code, Unit Testing, CI/CD pipelines.
-- **Interpersonal:** Adaptability in corporate environments, Autonomy, Analytical mindset.
+- **Interpersonal:** Adaptability in corporate environments, Autonomy, Analytical mindset, Thirst for knowledge.
 
 ---
 
